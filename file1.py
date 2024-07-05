@@ -16,4 +16,4 @@ result = factorial(5)
 print(f"Factorial of 5 is: {result}")
 
 result = fibonacci_sequence(10)
-print(f"Fibonacci sequence up to 10 numbers: {result}")
+print(f"Fibonacci sequence up to 10 numbers:")
